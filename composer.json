@@ -1,0 +1,19 @@
+{
+    "name": "rinatsin/alarm",
+    "description": "project",    "license": "MIT",
+    "authors": [
+        {
+            "name": "rinat salimyanov",
+            "email": "rinatsin@gmail.com"
+        }
+    ],
+    "autoload": {
+    "psr-4": {"App\\": "src/"},
+    "files": [
+    ]
+    },
+    "require": {},
+    "config": {
+    "vendor-dir": "/composer/vendor"
+    }
+}
